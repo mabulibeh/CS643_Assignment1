@@ -1,0 +1,78 @@
+# Found a car picture in file: 1.jpg: 
+    Found text$ BR8167
+    Found text$
+    Found textBR8167
+
+
+# Found a car picture in file: 2.jpg: 
+    No text found in this picture
+
+
+
+# Found a car picture in file: 4.jpg: 
+    Found textYHI9 OTZ
+    Found textYHI9
+    Found textOTZ
+
+
+# Found a car picture in file: 5.jpg: 
+    No text found in this picture
+
+
+
+# Found a car picture in file: 6.jpg: 
+    No text found in this picture
+
+
+
+# Found a car picture in file: 7.jpg: 
+    Found textLamborghini
+    Found textLP 610 LB
+    Found textВО
+    Found textBWW
+    Found textLamborghini
+    Found textLP
+    Found text610 LB
+    Found textВО
+    Found textBWW
+
+
+# Found a car picture in file: 1.jpg: 
+    Found text$ BR8167
+    Found text$
+    Found textBR8167
+
+
+# Found a car picture in file: 2.jpg: 
+    No text found in this picture
+
+
+
+# Found a car picture in file: 4.jpg: 
+    Found textYHI9 OTZ
+    Found textYHI9
+    Found textOTZ
+
+
+# Found a car picture in file: 5.jpg: 
+    No text found in this picture
+
+
+
+# Found a car picture in file: 6.jpg: 
+    No text found in this picture
+
+
+
+# Found a car picture in file: 7.jpg: 
+    Found textLamborghini
+    Found textLP 610 LB
+    Found textВО
+    Found textBWW
+    Found textLamborghini
+    Found textLP
+    Found text610 LB
+    Found textВО
+    Found textBWW
+
+
